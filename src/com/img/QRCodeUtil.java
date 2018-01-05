@@ -139,9 +139,6 @@ public class QRCodeUtil {
   
     /** 
      * 当文件夹不存在时，mkdirs会自动创建多层目录，区别于mkdir．(mkdir如果父目录不存在则会抛出异常) 
-     * @author lanyuan 
-     * Email: mmm333zzz520@163.com 
-     * @date 2013-12-11 上午10:16:36 
      * @param destPath 存放目录 
      */  
     public static void mkdirs(String destPath) {  
