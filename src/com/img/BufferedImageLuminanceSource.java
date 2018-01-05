@@ -9,8 +9,8 @@ import com.google.zxing.LuminanceSource;
   *  
  * @ClassName: BufferedImageLuminanceSource 
  * @Description: TODO(二维码生成相关类) 
- * @Company:大连海大
- * @author zhaolei 
+ * @Company:esmart
+ * @author admin 
  * @version 1.0 2016-4-27 上午10:45:37
   */
 public class BufferedImageLuminanceSource extends LuminanceSource {  
